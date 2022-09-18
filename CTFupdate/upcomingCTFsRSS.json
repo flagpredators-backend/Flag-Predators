@@ -1,0 +1,86 @@
+[
+  {
+    "title": "RomHack 2022 CTF",
+    "url": "https://ctf.hackthebox.com/event/details/romhack-2022-ctf-553",
+    "description": "RomHack 2022 CTF is a jeopardy-style CTF hosted by Hack The Box",
+    "logo_path": "./assets/img/uCTFs\\ctftime.jpg"
+  },
+  {
+    "title": "DownUnderCTF 2022 (Online)",
+    "url": "https://play.duc.tf/",
+    "description": "DownUnderCTF is the largest online Australian run Capture The Flag (CTF) competition with over 4000+ registered users and over 2100+ registered teams (2021)",
+    "logo_path": "./assets/img/uCTFs\\tmp\\DownUnderCTF.png"
+  },
+  {
+    "title": "WPICTF 2022",
+    "url": "https://ctf.wpictf.xyz/",
+    "description": "Fifth annual WPICTF, hosted by Worcester Polytechnic Institute Cyber Security Club.",
+    "logo_path": "./assets/img/uCTFs\\ctftime.jpg"
+  },
+  {
+    "title": "CyberSecurityRumble CTF",
+    "url": "https://cybersecurityrumble.de/",
+    "description": "The (Cyber) CyberSecurityRumble Germany is back!",
+    "logo_path": "./assets/img/uCTFs\\tmp\\CyberSecurityRumble CTF.png"
+  },
+  {
+    "title": "ASIS CTF Quals 2022",
+    "url": "https://asisctf.com/",
+    "description": "ASIS CTF Quals 2022 :)",
+    "logo_path": "./assets/img/uCTFs\\ctftime.jpg"
+  },
+  {
+    "title": "DEADFACE CTF",
+    "url": "https://ctf.deadface.io/",
+    "description": "DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics, CyberUp, and Cerberus Sentinel in support of National Cyber Security Awareness Month.",
+    "logo_path": "./assets/img/uCTFs\\tmp\\DEADFACE CTF.png"
+  },
+  {
+    "title": "bi0sCTF 2022",
+    "url": "https://ctf.bi0s.in/",
+    "description": "bi0sCTF 2022 is a jeopardy-style CTF hosted by bi0s",
+    "logo_path": "./assets/img/uCTFs\\tmp\\bi0sCTF.png"
+  },
+  {
+    "title": "Hack.lu CTF 2022",
+    "url": "http://hack.lu/",
+    "description": "Hack.lu CTF 2022 is organized as usual by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 13th Hack.lu CTF held by us.",
+    "logo_path": "./assets/img/uCTFs\\tmp\\Hack.lu CTF.jpg"
+  },
+  {
+    "title": "BuckeyeCTF 2022",
+    "url": "https://ctf.osucyber.club/",
+    "description": "CTF run by students from Cyber Security Club @ Ohio State.",
+    "logo_path": "./assets/img/uCTFs\\tmp\\BuckeyeCTF.jpg"
+  },
+  {
+    "title": "HK Cyber Security New Generation CTF Challenge 2022",
+    "url": "https://ctf.hkcert.org/",
+    "description": "Arouse the cyber security skills and awareness of the industry and students. And encourage participants’ problem solving with teamwork, creative thinking and cyber security skills via a fun game.",
+    "logo_path": "./assets/img/uCTFs\\ctftime.jpg"
+  },
+  {
+    "title": "idekCTF 2022",
+    "url": "https://ctf.idek.team/",
+    "description": "The second edition of idekCTF, featuring intermediate to advanced pwn, re, crypto, web, and misc challenges.",
+    "logo_path": "./assets/img/uCTFs\\tmp\\idekCTF.png"
+  },
+  {
+    "title": "Damncon 2022",
+    "url": "https://damncon.dsph.org/",
+    "description": "Damncon2022 is the cyber conference organized by Damn Secure Pentesting Hub, It is annual event with the mission to change your vision towards the domain of cybersecurity",
+    "logo_path": "./assets/img/uCTFs\\tmp\\Damncon.png"
+  },
+  {
+    "title": "ASIS CTF Finals 2022",
+    "url": "https://asisctf.com/",
+    "description": "ASIS CTF Finals 2022 is a jeopardy-style CTF hosted by ASIS",
+    "logo_path": "./assets/img/uCTFs\\tmp\\ASIS CTF Finals.jpg"
+  },
+  {
+    "title": "LINE CTF 2023",
+    "url": "https://linectf.me/",
+    "description": "This is a jeopardy-style CTF hosted by the security team at LINE. LINE CTF 2023 is hosted for a single day on online.",
+    "logo_path": "./assets/img/uCTFs\\tmp\\LINE CTF.png"
+  }
+]
